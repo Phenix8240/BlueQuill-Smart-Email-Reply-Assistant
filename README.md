@@ -36,4 +36,4 @@
 
 1. Clone this repository:
    ```bash
-  https://github.com/Phenix8240/BlueQuill-Smart-Email-Reply-Assistant.git
+   git clone https://github.com/Phenix8240/bluequill-extension.git
